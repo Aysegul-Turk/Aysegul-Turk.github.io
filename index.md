@@ -5,7 +5,7 @@
 ### Climate Change 
 
 [Project 1 Title](/sample_page)
-<img src="[images/dummy_thumbnail.jpg?raw=true](https://www.google.com/imgres?imgurl=https%3A%2F%2Fclimate.nasa.gov%2Fsystem%2Finternal_resources%2Fdetails%2Foriginal%2F1209_shutterstock_88550854.jpg&tbnid=Ez2UxR_L1nlPSM&vet=12ahUKEwiEyYj06Pr-AhXzFmIAHUt6DGMQMygCegUIARDkAQ..i&imgrefurl=https%3A%2F%2Fclimate.nasa.gov%2Fsolutions%2Fadaptation-mitigation%2F&docid=NBdkwwQjrXb4gM&w=1000&h=787&itg=1&q=climate%20change&ved=2ahUKEwiEyYj06Pr-AhXzFmIAHUt6DGMQMygCegUIARDkAQ)"/>
+<img src="![at](https://github.com/Aysegul-Turk/Aysegul-Turk.github.io/assets/133682367/c4a20e51-e1ca-41c0-a9af-a5dc33f66ef4)"/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
