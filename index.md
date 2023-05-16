@@ -5,8 +5,7 @@
 ### Climate Change 
 
 [Project 1 Title](/sample_page)
-<img src="![at](https://github.com/Aysegul-Turk/Aysegul-Turk.github.io/assets/133682367/c4a20e51-e1ca-41c0-a9af-a5dc33f66ef4)"/>
-
+<img src="images/climate-change.jpg?raw=true"/>
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
