@@ -5,7 +5,7 @@
 ### Climate Change 
 
 [Project 1 Title](/sample_page)
-<img src="images/at.jpg"/>
+<img src="images/at.PNG"/>
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
